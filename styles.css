@@ -262,5 +262,12 @@ ul li:hover .remove {
     color: var(--font-color-hover);
 }
 
+@media (max-width: 480px) {
+  .items-left {
+    margin-right: 10px;
+  }
+  
+}
+
 
 
